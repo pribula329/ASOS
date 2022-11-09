@@ -20,8 +20,12 @@ Spring Framework poskytuje komplexný model programovania a konfigurácie pre mo
 ## Spring Batch
 Ľahký, komplexný framework navrhnutý tak, aby umožnil vývoj robustných dávkových aplikácií životne dôležitých pre každodenné operácie podnikových systémov
 
+Vzorový príklad App
+
 ## Spring Integration 
 Spring Integration umožňuje ľahké zasielanie správ v rámci aplikácií založených na Spring a podporuje integráciu s externými systémami prostredníctvom deklaratívnych adaptérov.
+
+Vzorovy príklad App2
 
 ## Dokumentácia
 //Todo
