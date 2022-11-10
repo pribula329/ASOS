@@ -28,10 +28,10 @@ Spring Integration umožňuje ľahké zasielanie správ v rámci aplikácií zal
 Vzorovy príklad App2
 
 ## Dokumentácia
-//Todo
+[Dokumentácia.pdf](https://github.com/pribula329/ASOS/blob/main/docs/Dokumentacia.pdf)
 
 ## Prezentácia
-//Todo
+[Prezentácia.pptx](https://github.com/pribula329/ASOS/blob/main/docs/Prezentacia.pptx)
 
 
 ## Hlavné zdroje
